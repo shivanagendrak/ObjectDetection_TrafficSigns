@@ -41,7 +41,7 @@ python -m torch.distributed.launch --nproc_per_node 4 --use_env val.py --data yo
 1. Clone this repository to your local machine.
 
    ```bash
-  https://github.com/shivanagendrak/ObjectDetection_TrafficSigns
+    https://github.com/shivanagendrak/ObjectDetection_TrafficSigns
    ```
 
 2. Open the Android Studio project located in the `android_app` directory.
