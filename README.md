@@ -57,11 +57,6 @@ Once the Android application is deployed, you can use the camera functionality t
 Feel free to customize and extend the project according to your specific requirements!
 
 ```
-
-https://github.com/shivanagendrak/ObjectDetection_TrafficSigns/assets/40945928/4ba0a6c6-7c4e-4f42-b343-b6efb8817db1
-
-
-
 Remember to replace placeholders such as `your_data.yaml`, `yourusername`, and adjust the paths or instructions based on your actual project structure. Additionally, provide any specific instructions or configurations required for running the Android application.
 ```
-
+https://github.com/shivanagendrak/ObjectDetection_TrafficSigns/assets/40945928/4ba0a6c6-7c4e-4f42-b343-b6efb8817db1
