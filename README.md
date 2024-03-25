@@ -58,6 +58,10 @@ Feel free to customize and extend the project according to your specific require
 
 ```
 
+https://github.com/shivanagendrak/ObjectDetection_TrafficSigns/assets/40945928/4ba0a6c6-7c4e-4f42-b343-b6efb8817db1
+
+
+
 Remember to replace placeholders such as `your_data.yaml`, `yourusername`, and adjust the paths or instructions based on your actual project structure. Additionally, provide any specific instructions or configurations required for running the Android application.
 ```
-https://drive.google.com/file/d/12PWauQC6WQd21UX3Ekmfx1dNxHC4Bvc2/view?usp=drive_link
+
