@@ -60,4 +60,5 @@ Feel free to customize and extend the project according to your specific require
 
 Remember to replace placeholders such as `your_data.yaml`, `yourusername`, and adjust the paths or instructions based on your actual project structure. Additionally, provide any specific instructions or configurations required for running the Android application.
 ```
+
 [![Watch the video](https://drive.google.com/file/d/12PWauQC6WQd21UX3Ekmfx1dNxHC4Bvc2/view?usp=drive_link)
